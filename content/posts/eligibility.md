@@ -1,6 +1,6 @@
 +++
 date = '2025-02-09T20:04:23-06:00'
-draft = true
+draft = false
 title = 'Getting to the *core* of the eligibility system on *OS'
 +++
 
