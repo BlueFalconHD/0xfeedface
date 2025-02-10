@@ -1,0 +1,29 @@
+[[entries]]
+title = "info"
+
+# Social links
+[[entries.entries]]
+title = "github"
+url = "https://github.com/bluefalconhd"
+
+[[entries]]
+title = "all posts"
+
+[entries.post_list]
+limit = 5
+show_more = true
+show_more_text = "See archive..."
+show_more_url = "posts"
+
+[[entries]]
+title = "posts by category"
+
+[entries.post_list]
+section = "posts"
+show_more = true
+show_more_text = "See more posts..."
+show_more_url = "posts"
+
+[[entries]]
+title = "rss"
+url = "index.xml"
