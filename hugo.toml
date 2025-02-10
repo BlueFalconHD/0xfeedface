@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://0xfeedface.club/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '0xfeedface'
 theme = 'nostyleplease'
